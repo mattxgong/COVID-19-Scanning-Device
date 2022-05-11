@@ -7,4 +7,4 @@ being cleared first, an alarm will activate, alerting nearby people.
 The buzzer will sound repeatedly and the LED will flash.
 
 ## Diagram:
-[Diagram](/diagram.png)
+![Diagram](/diagram.png)
