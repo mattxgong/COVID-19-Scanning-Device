@@ -5,3 +5,6 @@ scans the user and makes sure that their temperature is within the normal
 range. If at any point, the user or anyone else tries to pass without 
 being cleared first, an alarm will activate, alerting nearby people. 
 The buzzer will sound repeatedly and the LED will flash.
+
+## Diagram:
+[Diagram](/diagram.png)
